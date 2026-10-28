@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CookBookApp</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="my_cookbook">My Cookbook</string>
+</resources>

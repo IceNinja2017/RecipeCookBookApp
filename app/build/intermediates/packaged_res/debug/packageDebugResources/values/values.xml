@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="app_name">CookBookApp</string>
+    <string name="my_cookbook">My Cookbook</string>
+    <style name="Base.Theme.CookBookApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CookBookApp" parent="Base.Theme.CookBookApp"/>
+</resources>
